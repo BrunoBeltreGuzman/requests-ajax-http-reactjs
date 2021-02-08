@@ -4,9 +4,14 @@ Example about Requests Ajax to api rest with ReactJS using the methods http GET,
 
 **Screenshot:**
 
-**Routers:**
 
 ![Image](https://github.com/BrunoBeltreGuzman/requests-ajax-http-reactjs/blob/master/screenshot/Captura%20de%20pantalla_2021-02-08_17-36-04.png)
+
+![Image](https://github.com/BrunoBeltreGuzman/requests-ajax-http-reactjs/blob/master/screenshot/Captura%20de%20pantalla_2021-02-08_17-36-39.png)
+
+![Image](https://github.com/BrunoBeltreGuzman/requests-ajax-http-reactjs/blob/master/screenshot/Captura%20de%20pantalla_2021-02-08_17-37-09.png)
+
+**Routers:**
 
 _From: https://jsonplaceholder.typicode.com/_
 
